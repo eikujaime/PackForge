@@ -48,15 +48,7 @@ Este addon se distribuye bajo licencia [MIT](LICENSE).
 
 ## ✨ Créditos
 
-Creado por Luis con ayuda de IA 🤖 y mucha pasión por Blender.
+Creado por Luis Jaime 🤖 y mucha pasión por Blender.
 
 """
 
-# Ruta para guardar el nuevo README.md
-readme_path = "/mnt/data/PackForge_v2/README.md"
-
-# Guardar el archivo actualizado
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-readme_path
