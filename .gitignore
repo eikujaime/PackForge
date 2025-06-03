@@ -1,0 +1,7 @@
+__pycache__/
+*.blend
+*.pyc
+*.tmp
+*.log
+*.DS_Store
+*.zip
