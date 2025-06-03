@@ -50,5 +50,5 @@ Este addon se distribuye bajo licencia [MIT](LICENSE).
 
 Creado por Luis Jaime 🤖 y mucha pasión por Blender.
 
-"""
+
 
