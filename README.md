@@ -1,8 +1,7 @@
 
 
 Addon para empaquetado automático de assets en Blender.
-# Contenido profesional del nuevo README.md con el banner incluido
-readme_content = """<p align="center">
+
   <img src="docs/packforge_banner.png" alt="PackForge Banner" />
 </p>
 
