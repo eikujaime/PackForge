@@ -1,7 +1,4 @@
-# PackForge
-<p align="center">
-  <img src="docs/packforge_banner.png" alt="PackForge Banner" />
-</p>
+
 
 Addon para empaquetado automático de assets en Blender.
 # Contenido profesional del nuevo README.md con el banner incluido
@@ -27,12 +24,6 @@ PackForge te permite exportar assets listos para compartir, incluyendo miniatura
 - 🖼️ Icono e identidad visual personalizada.
 
 ---
-
-## 📂 Estructura generada
-
-
----
-
 ## 🧪 Cómo instalar
 
 1. Descargá el ZIP desde la sección **Releases**.
